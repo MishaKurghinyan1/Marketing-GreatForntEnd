@@ -1,6 +1,6 @@
 <!-- Use Ctrl/Cmd + Shift + V in VS Code to preview this Markdown file. -->
 
-# [Domain for GitHub Pages](https://mishakurghinyan1.github.io/testimonial-card/)
+# [Domain for GitHub Pages](https://mishakurghinyan1.github.io/Marketing-GreatForntEnd/marketing-track/01-testimonial-card/)
 
 ## GreatFrontEnd Projects Challenge
 
